@@ -368,7 +368,7 @@ header .switch {
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.2509803922);
   transition: transform 0.3s ease-in-out;
   padding: 10px 20px;
-  color: var(--gray);
+  color: #fffbfb;
   font-weight: 300;
   opacity: 0.7;
 }

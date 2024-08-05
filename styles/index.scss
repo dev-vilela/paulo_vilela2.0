@@ -61,9 +61,9 @@ a {
 }
 
 .linkedin,
-.github,
-.eye {
-    background-color: white;
+.github
+ {
+    background-color: rgb(24, 15, 110);
     padding: 7px;
     border-radius: 10px;
 }
@@ -481,7 +481,7 @@ header {
                     box-shadow: 0px 4px 4px 0px #00000040;
                     transition: transform 0.3s ease-in-out;
                     padding: 10px 20px;
-                    color: var(--gray);
+                    color: white;
                     font-weight: 300;
                     opacity: 0.7;
 
