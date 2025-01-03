@@ -187,9 +187,14 @@ header .switch {
   color: #9c0c0c;
 }
 
-.container-home h1,p{
+.container-home h1{
   color: #006983;
 }
+
+.white-color{
+  color: #fff;
+}
+
 #home .container-home .image-home {
   width: min(80%, 500px);
 }
@@ -406,7 +411,7 @@ header .switch {
 }
 
 .section-title p{
-  color: #000000;
+  color: #FFF;
   letter-spacing: 1px;
   line-height: 25px;
   font-size: 19px;
@@ -959,6 +964,9 @@ footer p{
     justify-content: center !important;
     align-items: center !important;
   }
+
+  
+
   .container-project {
     display: flex;
     flex-direction: column !important;
