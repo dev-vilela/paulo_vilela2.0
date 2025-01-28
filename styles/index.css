@@ -101,7 +101,7 @@ a:hover {
 
 .corpo{
 
-    background-image: linear-gradient(10deg, #a32d2d, #0e0e91);
+  background-image: linear-gradient(10deg, #e7e2ff, #0e0e91);
 
 }
 
@@ -193,6 +193,9 @@ header .switch {
 
 .white-color{
   color: #fff;
+  font-size: 17px;
+  letter-spacing: 2px;
+  line-height: 1.5;
 }
 
 #home .container-home .image-home {
@@ -406,6 +409,7 @@ header .switch {
   color: #000000;
   font-size: 40px;
   width: 1130px;
+  max-width: 500px;
   margin: 30px auto;
   text-align: center;
 }
@@ -424,6 +428,8 @@ header .switch {
   padding: 0 0 20px 20px;
   margin-top: -2px;
   border-left: 2px solid #418530;
+  max-width: 600px;
+  left: -50px;
   position: relative;
   margin-left: 120px;
 }
